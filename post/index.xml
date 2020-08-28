@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ryan Sawasaki</title>
+    <link>https://rsawasaki.github.io/post/</link>
+    <description>Recent content in Projects on Ryan Sawasaki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://rsawasaki.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reducing Crime</title>
+      <link>https://rsawasaki.github.io/post/project-2/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-2/</guid>
+      <description> IN PROGRESS  Report
+  </description>
+    </item>
+    
+    <item>
+      <title>Analyzing Twitter Data for #DataScience</title>
+      <link>https://rsawasaki.github.io/post/project-1/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-1/</guid>
+      <description> IN PROGRESS  Report
+Presentation
+  </description>
+    </item>
+    
+  </channel>
+</rss>
