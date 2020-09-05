@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ryan Sawasaki</title>
+    <title>Projects on Home</title>
     <link>https://rsawasaki.github.io/post/</link>
-    <description>Recent content in Projects on Ryan Sawasaki</description>
+    <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
@@ -12,12 +12,44 @@
     
     
     <item>
+      <title>Effects of Race on Perceptions of Professionalism</title>
+      <link>https://rsawasaki.github.io/post/project-4/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-4/</guid>
+      <description> IN PROGRESS  Report
+Research Proposal
+  </description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction</title>
+      <link>https://rsawasaki.github.io/post/project-5/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-5/</guid>
+      <description> IN PROGRESS  Notebook
+Presentation
+  </description>
+    </item>
+    
+    <item>
       <title>Reducing Crime</title>
       <link>https://rsawasaki.github.io/post/project-2/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rsawasaki.github.io/post/project-2/</guid>
       <description> IN PROGRESS  Report
+  </description>
+    </item>
+    
+    <item>
+      <title>Lyft Bay Wheels Query Project</title>
+      <link>https://rsawasaki.github.io/post/project-3/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-3/</guid>
+      <description> IN PROGRESS  Notebook
   </description>
     </item>
     

@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science Portfolio on Ryan Sawasaki</title>
+    <title>Data Science Portfolio on Home</title>
     <link>https://rsawasaki.github.io/</link>
-    <description>Recent content in Data Science Portfolio on Ryan Sawasaki</description>
+    <description>Recent content in Data Science Portfolio on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rsawasaki.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Effects of Race on Perceptions of Professionalism</title>
+      <link>https://rsawasaki.github.io/post/project-4/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-4/</guid>
+      <description> IN PROGRESS  Report
+Research Proposal
+  </description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction</title>
+      <link>https://rsawasaki.github.io/post/project-5/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-5/</guid>
+      <description> IN PROGRESS  Notebook
+Presentation
+  </description>
+    </item>
     
     <item>
       <title>Reducing Crime</title>
@@ -18,6 +40,16 @@
       
       <guid>https://rsawasaki.github.io/post/project-2/</guid>
       <description> IN PROGRESS  Report
+  </description>
+    </item>
+    
+    <item>
+      <title>Lyft Bay Wheels Query Project</title>
+      <link>https://rsawasaki.github.io/post/project-3/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-3/</guid>
+      <description> IN PROGRESS  Notebook
   </description>
     </item>
     
