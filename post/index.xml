@@ -44,7 +44,7 @@
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rsawasaki.github.io/post/project-3/</guid>
-      <description>A query project that uses the Lyft Bay Wheels dataset to gain insight into popular bike share commuter trips within San Francisco. Utilizing SQL and BigQuery within the Google Cloud Platform (GCP), queries are made from a Jupyter Notebook through a virtual machine and presents findings using Pandas outout tables and Matplotlib visualizations. The data analysis results are used to answer business-driven questions and provide recommendations to increase ridership.</description>
+      <description>A query project that uses the Lyft Bay Wheels dataset to gain insight into popular bike share commuter trips within San Francisco. Utilizing SQL and BigQuery within the Google Cloud Platform (GCP), queries are made from a Jupyter Notebook through a virtual machine and presents findings using Pandas output tables and Matplotlib visualizations. The data analysis results are used to answer business-driven questions and provide recommendations to increase ridership.</description>
     </item>
     
     <item>
