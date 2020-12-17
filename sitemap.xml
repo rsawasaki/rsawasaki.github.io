@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://rsawasaki.github.io/</loc>
-    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rsawasaki.github.io/post/project-6/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

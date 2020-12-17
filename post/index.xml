@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Predicting Flight Departure Delay</title>
+      <link>https://rsawasaki.github.io/post/project-6/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-6/</guid>
+      <description>A machine learning project predicting flight departure delays using an airlines dataset of 30 million records and weather dataset of 630 million records. Using the Databricks platform, data preparation and feature engineering are performed on the two datasets. Categorical data is indexed, one hot encoded and assembled into vectors along with numerical data. A data pipeline is built in preparation for algorithm exploration. Using Apache Spark&amp;rsquo;s machine learning library, scalable logistic regression, decision tree, and random forest classification models are conducted.</description>
+    </item>
+    
+    <item>
       <title>Effects of Race on Perceptions of Professionalism</title>
       <link>https://rsawasaki.github.io/post/project-4/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
