@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Reading Comprehension and Open-Domain Question Answering with BERT</title>
+      <link>https://rsawasaki.github.io/post/project-7/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsawasaki.github.io/post/project-7/</guid>
+      <description>A natural language processing research paper analyzing the difference between reading comprehension and open-domain question answering. This paper examines two potential factors, context length and question generation, that make open-domain question answering the more difficult task. The Stanford Question Answering Dataset (SQuAD 2.0) is used as the baseline reading comprehension dataset and Google Natural Questions (NQ) as the open-domain dataset. A BERT-base uncased model is fine-tuned on the datasets to run experiments evaluating model performance.</description>
+    </item>
+    
+    <item>
       <title>Predicting Flight Departure Delay</title>
       <link>https://rsawasaki.github.io/post/project-6/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
